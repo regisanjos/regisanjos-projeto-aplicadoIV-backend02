@@ -1,4 +1,4 @@
-const notificationService = require('../services/notificationService'); 
+const notificationService = require('../services/NotificationService'); 
 const { sendEmail } = require('../utils/SendEmail');
 
 

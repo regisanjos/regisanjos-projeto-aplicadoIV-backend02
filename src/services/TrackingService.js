@@ -1,4 +1,4 @@
-const trackingService = require('../services/trackingService');
+const trackingService = require('./TrackingService');
 
 
 exports.createTrackingRecord = async (req, res) => {
